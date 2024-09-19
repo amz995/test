@@ -1,0 +1,29 @@
+.container{
+    max-width: 1920px;
+    max-height: 2099px;
+    background-color: gray;
+    color: white;
+}
+
+.container h1{
+    max-width: 825px;
+    max-height: 115px;
+}
+
+.container .black img{
+     width: 655px;
+     height: 655px;
+}
+
+.container .black p{
+    width: 707px;
+    height: 175px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 77.45px;
+}
+
+.container .black button{
+
+}
